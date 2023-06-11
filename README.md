@@ -28,5 +28,5 @@ curl $ECS_DNS
 ## Destroy
 `terraform destroy`
 
-## Generated terraform_version.txt
+## Generate terraform_version.txt
 `terraform --version > terraform_version.txt`
