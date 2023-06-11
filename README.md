@@ -30,6 +30,3 @@ curl $ECS_DNS
 
 ## Generated terraform_version.txt
 `terraform --version > terraform_version.txt`
-
-## TODO:
-- get locals from AWS or create security group
