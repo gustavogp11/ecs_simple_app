@@ -1,0 +1,5 @@
+Terraform v0.14.6
++ provider registry.terraform.io/hashicorp/aws v5.2.0
+
+Your version of Terraform is out of date! The latest version
+is 1.4.6. You can update by downloading from https://www.terraform.io/downloads.html
