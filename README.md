@@ -1,9 +1,10 @@
 # Example deployment of ECS simple http server using terraform
 
 ## Description
-Deployment of simple app on AWS using Terraform [terraform_version.txt](tested with version)    
+Deployment of simple app on AWS using Terraform [(tested with version)](terraform_version.txt)    
 The ECS will use mostly default data to create the service (security group `allow_http_80` is created using default vpc + subnets)    
-_WARNING: this execution will cost you $$ on AWS, please be careful and make sure to execute `terraform destroy` at the end_
+
+_**WARNING**: this execution will cost you $$ on AWS, please be careful and make sure to execute `terraform destroy` at the end_
 
 ## Init
 `terraform init`
